@@ -1,3 +1,4 @@
+https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/201910/832627.shtml	加载失败	0001-01-01 星期一	0:00:00
 https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/201304/201516.shtml	半影相依扇中情 《天涯明月刀》唐门职业介绍	2013-04-20 星期六	19:47:07
 https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/201304/201346.shtml	一举冲霄气势雄 《天涯明月刀》神威门派介绍	2013-04-20 星期六	19:48:26
 https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/201304/200653.shtml	Windows 8系统游戏运行说明	2013-04-20 星期六	19:48:42
@@ -1540,7 +1541,6 @@ https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202011
 https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202011/875201.shtml	11月14日欢乐英雄服务器更新公告（已完成）	2020-11-14 星期六	21:46:14
 https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202011/875390.shtml	11月18日服务器例行维护公告(已完成)	2020-11-18 星期三	8:59:56
 https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202011/875803.shtml	11月21日服务器临时维护公告（已完成）	2020-11-21 星期六	2:13:11
-https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202011/875841.shtml	剑荡八荒S11线上赛冠军诞生！	2020-11-22 星期日	23:09:07
 https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202011/876030.shtml	11月25日服务器例行维护公告	2020-11-25 星期三	1:55:12
 https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202011/876416.shtml	11月27日欢乐英雄服务器更新公告	2020-11-27 星期五	21:49:58
 https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202011/876480.shtml	11月29日“幽夜从龙”冬季版本欢乐英雄服务器更新公告（已完成）	2020-12-01 星期二	1:00:05
@@ -1629,3 +1629,16 @@ https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202105
 https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202105/890439.shtml	5月22日欢乐英雄服务器更新公告（已完成）	2021-05-22 星期六	16:36:51
 https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202105/890644.shtml	5月26日服务器例行维护公告(已完成)	2021-05-26 星期三	1:28:59
 https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202105/890918.shtml	5月28日服务器不停服更新公告（已完成）	2021-05-28 星期五	14:43:00
+https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202105/891089.shtml	5月31日欢乐英雄服务器更新公告（已完成）	2021-05-31 星期一	16:06:33
+https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202105/891129.shtml	5月31日欢乐英雄服务器更新公告（已完成）	2021-05-31 星期一	22:18:12
+https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202106/891173.shtml	6月1日欢乐英雄服务器更新公告（已完成）	2021-06-01 星期二	15:40:05
+https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202106/891239.shtml	6月2日服务器例行维护公告(已完成)	2021-06-01 星期二	22:23:43
+https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202106/891423.shtml	6月3日欢乐英雄服务器更新公告（已完成）	2021-06-03 星期四	16:49:17
+https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202106/891714.shtml	剑荡八荒1V1 S12赛季即将开赛 FAQ一览	2021-06-07 星期一	18:25:09
+https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202106/891844.shtml	6月9日服务器例行维护公告（已完成）	2021-06-09 星期三	1:33:28
+https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202106/892162.shtml	6月11日欢乐英雄服务器更新公告(已完成)	2021-06-11 星期五	16:30:44
+https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202106/892464.shtml	6月16日服务器例行维护公告（已完成）	2021-06-16 星期三	1:10:17
+https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202106/893025.shtml	6月21日欢乐英雄服务器更新公告(已完成)	2021-06-21 星期一	22:38:30
+https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202106/893101.shtml	6月23日服务器例行维护公告(已完成)	2021-06-23 星期三	3:08:18
+https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202106/893173.shtml	6月23日大地飞鹰服务器临时维护公告(已完成)	2021-06-23 星期三	17:59:32
+https://wuxia.qq.com/webplat/info/news_version3/5012/5013/5014/5016/m3486/202106/893270.shtml	6月24日服务器不停服更新公告(已完成)	2021-06-24 星期四	16:53:55
